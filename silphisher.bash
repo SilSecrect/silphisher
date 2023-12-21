@@ -133,7 +133,6 @@ banner() {
 	EOF
 }
 
-${WHITE} ${__version__}
 ## Dependencies
 dependencies() {
 	echo -e "\n${GREEN}[${CORAL}+${GREEN}]${CYAN} Instalando pacotes necessários..."
